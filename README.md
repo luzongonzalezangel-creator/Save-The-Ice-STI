@@ -146,9 +146,7 @@ Nuestro propósito es garantizar un futuro sostenible para las próximas generac
 
 </body>
 </html>
-git init
-git add .
-git commit -m "Primer commit"
+
 git remote add origin https://github.com/luzongonzalezangel-creator/Save-The-Ice-STI.git
 git branch -M main
 git push -u origin main
