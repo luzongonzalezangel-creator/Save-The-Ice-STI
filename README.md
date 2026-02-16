@@ -95,7 +95,7 @@
 <body>
 
 <header>
-    <img src="logo.png" alt="Logo de mi empresa" width="200">
+    <img src="logotipo.png" alt="Logo de mi empresa" width="200">
 
     <h1>STI</h1>
     <p>Save The Ice</p>
